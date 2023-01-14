@@ -1,0 +1,7 @@
+.textEditorContainer{
+  width: 55%;
+  background-color: white;
+  margin: auto;
+  min-height: 100px;
+  padding: 25px;
+}
